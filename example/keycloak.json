@@ -1,0 +1,10 @@
+{
+    "realm": "test",
+    "auth-server-url": "https://id.example.com/auth",
+    "ssl-required": "external",
+    "resource": "test-frontend",
+    "credentials": {
+      "secret": "A8D4FEB9-FFCC-47F6-9B04-A7326DD4AE37"
+    },
+    "confidential-port": 0
+  }
